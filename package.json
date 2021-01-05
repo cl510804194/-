@@ -10,7 +10,7 @@
     "@icedesign/img": "^1.x",
     "@icedesign/layout": "^1.x",
     "@icedesign/theme": "^1.x",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bizcharts": "^3.5.5",
     "bizcharts-plugin-slider": "^2.1.1-beta.1",
     "classnames": "^2.2.5",
